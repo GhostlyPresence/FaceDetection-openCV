@@ -1,2 +1,2 @@
 # FaceDetection-openCV
-Real time face detection using web cam
+ABOUT: Detects all the faces in the frame that are facing the camera.
